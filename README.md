@@ -73,4 +73,3 @@ An LED-based water level indicator built with BC547 transistors, three color-cod
 
 ---
 
-## 📂 Project Structure
