@@ -65,11 +65,9 @@ An LED-based water level indicator built with BC547 transistors, three color-cod
 
 ## 🖼 Project Images
 
-> *(Images will appear here once uploaded)*
-
 | Circuit Diagram | Hardware Setup |
 |----------------|----------------|
-| ![Circuit Diagram](images/circuit_diagram.png) | ![Hardware Photo](images/hardware.jpg) |
+| ![Circuit Diagram](images/circuit_diagram.png) | ![Hardware Setup](images/hardware.jpg) |
 
----
+
 
